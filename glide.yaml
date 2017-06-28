@@ -1,0 +1,4 @@
+package: meetup-fukuoka
+import:
+- package: gopkg.in/gin-gonic/gin.v1
+  version: v1.1.4

@@ -1,0 +1,6 @@
+hash: 4f62bc47be5b58ffc78e63ee8829f91f1a65b7061d8a827a217f8a6d7b2636a3
+updated: 2017-06-27T14:31:05.016162542+08:00
+imports:
+- name: gopkg.in/gin-gonic/gin.v1
+  version: e2212d40c62a98b388a5eb48ecbdcf88534688ba
+testImports: []
