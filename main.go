@@ -19,6 +19,6 @@ func main() {
 
 func index(c *gin.Context) {
 	c.HTML(http.StatusOK, "index.html", gin.H{
-		"Message": "This is awesome DEMO",
+		"Message": "This is NUice DEMO",
 	})
 }
